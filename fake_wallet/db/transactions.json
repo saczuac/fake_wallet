@@ -1,0 +1,47 @@
+{
+    "transactions": [
+        {
+            "currency": "BTC",
+            "data": [
+                {
+                    "amount": "0,05",
+                    "type": "BUY"
+                },
+                {
+                    "amount": "0,03",
+                    "type": "SELL"
+                },
+                {
+                    "amount": "11000",
+                    "type": "SEND"
+                }
+            ]
+        },
+        {
+            "currency": "ETH",
+            "data": [
+                {
+                    "amount": "2,00",
+                    "type": "SELL"
+                },
+                {
+                    "amount": "0,005",
+                    "type": "BUY"
+                }
+            ]
+        },
+        {
+            "currency": "ARS",
+            "data": [
+                {
+                    "amount": "50000",
+                    "type": "DEPOSIT"
+                },
+                {
+                    "amount": "2000",
+                    "type": "WITHDRAW"
+                }
+            ]
+        }
+    ]
+}

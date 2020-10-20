@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "currency": "BTC",
+            "amount": "0,000001"
+        },
+        {
+            "currency": "ETH",
+            "amount": "0,4"
+        },
+        {
+            "currency": "ARS",
+            "amount": "500"
+        }
+    ]
+}
